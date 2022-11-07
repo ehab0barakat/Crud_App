@@ -1,5 +1,8 @@
 
-run :
+please use postman json file ==
+----------------------------------
+
+then run ::
 
 php artisan storage:link
 --------------------------
