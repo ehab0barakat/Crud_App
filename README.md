@@ -1,5 +1,8 @@
 
 run :
 
-php artisan storage:link;
-php artisan serve --port=8000;
+php artisan storage:link
+--------------------------
+
+php artisan serve --port=8000
+-----------------------------
